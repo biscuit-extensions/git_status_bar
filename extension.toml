@@ -1,0 +1,7 @@
+[extension]
+id = "git_status_bar"
+name = "Git Status Bar"
+version = "0.1.0"
+description = "Git Status Bar extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
